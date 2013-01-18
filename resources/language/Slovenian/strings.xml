@@ -1,0 +1,9 @@
+<strings>
+	<!-- Glavni menu -->
+	<string id="30001">V ŽIVO</string>
+	<string id="30002">STREAMI IGRALCEV</string>
+	<string id="30003">PRIHAJA</string>
+	
+	<!--Upcoming-->
+	<string id="30010"> za </string>
+</strings>

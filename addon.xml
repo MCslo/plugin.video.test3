@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.test3" name="TEST3" version="0.2" provider-name="MCslo">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon='script.module.simplejson' version='2.0.10'/> 
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">TL plugin</summary>
+        <language>en</language>
+        <description lang="en">Watch the most popular streamers from TL streamlists</description>
+    <platform>all</platform>
+    </extension>
+</addon>

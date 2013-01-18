@@ -1,0 +1,9 @@
+<strings>
+	<!-- main menu -->
+	<string id="30001">Playing now</string>
+	<string id="30002">Player streams</string>
+	<string id="30003">Upcoming</string>
+	
+	<!--Upcoming-->
+	<string id="30010"> in </string>
+</strings>
